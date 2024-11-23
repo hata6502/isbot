@@ -1,4 +1,6 @@
 # isbot 🤖/👨‍🦰
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhata6502%2Fisbot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhata6502%2Fisbot?ref=badge_shield)
+
 
 [![](https://img.shields.io/npm/v/isbot?style=flat-square)](https://www.npmjs.com/package/isbot) [![](https://img.shields.io/circleci/build/github/omrilotan/isbot?style=flat-square)](https://circleci.com/gh/omrilotan/isbot) [![](https://img.shields.io/github/last-commit/omrilotan/isbot?style=flat-square)](https://github.com/omrilotan/isbot/graphs/commit-activity) [![](https://img.shields.io/npm/dt/isbot?style=flat-square)](https://www.npmjs.com/package/isbot) [![](https://data.jsdelivr.com/v1/package/npm/isbot/badge)](https://www.jsdelivr.com/package/npm/isbot)
 
@@ -189,3 +191,7 @@ Change return value for isbot: `true` instead of matched string
 ### [**Version 1**](https://github.com/omrilotan/isbot/releases/tag/v1.0.0)
 
 No functional change
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhata6502%2Fisbot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhata6502%2Fisbot?ref=badge_large)
